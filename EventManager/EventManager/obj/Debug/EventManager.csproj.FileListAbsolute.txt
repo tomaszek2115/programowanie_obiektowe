@@ -1,0 +1,10 @@
+D:\studia\semestr_IV\programowanie_obiektowe\programowanie_obiektowe\EventManager\EventManager\bin\Debug\EventManager.exe.config
+D:\studia\semestr_IV\programowanie_obiektowe\programowanie_obiektowe\EventManager\EventManager\bin\Debug\EventManager.exe
+D:\studia\semestr_IV\programowanie_obiektowe\programowanie_obiektowe\EventManager\EventManager\bin\Debug\EventManager.pdb
+D:\studia\semestr_IV\programowanie_obiektowe\programowanie_obiektowe\EventManager\EventManager\obj\Debug\EventManager.csproj.AssemblyReference.cache
+D:\studia\semestr_IV\programowanie_obiektowe\programowanie_obiektowe\EventManager\EventManager\obj\Debug\EventManager.Form1.resources
+D:\studia\semestr_IV\programowanie_obiektowe\programowanie_obiektowe\EventManager\EventManager\obj\Debug\EventManager.Properties.Resources.resources
+D:\studia\semestr_IV\programowanie_obiektowe\programowanie_obiektowe\EventManager\EventManager\obj\Debug\EventManager.csproj.GenerateResource.cache
+D:\studia\semestr_IV\programowanie_obiektowe\programowanie_obiektowe\EventManager\EventManager\obj\Debug\EventManager.csproj.CoreCompileInputs.cache
+D:\studia\semestr_IV\programowanie_obiektowe\programowanie_obiektowe\EventManager\EventManager\obj\Debug\EventManager.exe
+D:\studia\semestr_IV\programowanie_obiektowe\programowanie_obiektowe\EventManager\EventManager\obj\Debug\EventManager.pdb
